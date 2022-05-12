@@ -8,10 +8,14 @@ td {
 
 table {
     width: 400px;
-    height: 400px;
+    height: auto;
 }
 
 .advt {
     writing-mode: vertical-rl;
     text-orientation: upright;
+}
+
+.advt img {
+    width: 100px;
 }
