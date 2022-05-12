@@ -16,3 +16,12 @@ th {
 td {
     padding: 10px;
 }
+
+.table_style {
+    color: red;
+}
+
+div.table_style {
+    color: aquamarine;
+    background-color: blue;
+}
