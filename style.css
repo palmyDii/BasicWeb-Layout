@@ -1,0 +1,17 @@
+table,
+td {
+    border: 2px solid red;
+    color: skyblue;
+    text-align: center;
+    border-spacing: 5px;
+}
+
+table {
+    width: 400px;
+    height: 400px;
+}
+
+.advt {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
